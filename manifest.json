@@ -1,0 +1,7 @@
+{
+  "name": "vaadin-grid-example",
+  "short_name": "vaadin-grid-example",
+  "description": "Example vaadin-grid with polymer 3",
+  "start_url": "/",
+  "display": "standalone"
+}

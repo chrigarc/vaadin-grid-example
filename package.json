@@ -1,0 +1,12 @@
+{
+  "name": "vaadin-grid-example",
+  "description": "Example vaadin-grid with polymer 3",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0",
+    "@vaadin/vaadin-grid": "^5.2.0-beta2"
+  },
+  "devDependencies": {
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "wct-browser-legacy": "^1.0.0"
+  }
+}
